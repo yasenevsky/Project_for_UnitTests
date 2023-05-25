@@ -1,0 +1,16 @@
+C:\Users\Yasenevsky\Desktop\Project_for_UnitTests\Project_for_UnitTests\bin\Debug\netcoreapp3.1\Project_for_UnitTests.exe
+C:\Users\Yasenevsky\Desktop\Project_for_UnitTests\Project_for_UnitTests\bin\Debug\netcoreapp3.1\Project_for_UnitTests.deps.json
+C:\Users\Yasenevsky\Desktop\Project_for_UnitTests\Project_for_UnitTests\bin\Debug\netcoreapp3.1\Project_for_UnitTests.runtimeconfig.json
+C:\Users\Yasenevsky\Desktop\Project_for_UnitTests\Project_for_UnitTests\bin\Debug\netcoreapp3.1\Project_for_UnitTests.runtimeconfig.dev.json
+C:\Users\Yasenevsky\Desktop\Project_for_UnitTests\Project_for_UnitTests\bin\Debug\netcoreapp3.1\Project_for_UnitTests.dll
+C:\Users\Yasenevsky\Desktop\Project_for_UnitTests\Project_for_UnitTests\bin\Debug\netcoreapp3.1\Project_for_UnitTests.pdb
+C:\Users\Yasenevsky\Desktop\Project_for_UnitTests\Project_for_UnitTests\obj\Debug\netcoreapp3.1\Project_for_UnitTests.csproj.AssemblyReference.cache
+C:\Users\Yasenevsky\Desktop\Project_for_UnitTests\Project_for_UnitTests\obj\Debug\netcoreapp3.1\Project_for_UnitTests.Form1.resources
+C:\Users\Yasenevsky\Desktop\Project_for_UnitTests\Project_for_UnitTests\obj\Debug\netcoreapp3.1\Project_for_UnitTests.csproj.GenerateResource.cache
+C:\Users\Yasenevsky\Desktop\Project_for_UnitTests\Project_for_UnitTests\obj\Debug\netcoreapp3.1\Project_for_UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasenevsky\Desktop\Project_for_UnitTests\Project_for_UnitTests\obj\Debug\netcoreapp3.1\Project_for_UnitTests.AssemblyInfoInputs.cache
+C:\Users\Yasenevsky\Desktop\Project_for_UnitTests\Project_for_UnitTests\obj\Debug\netcoreapp3.1\Project_for_UnitTests.AssemblyInfo.cs
+C:\Users\Yasenevsky\Desktop\Project_for_UnitTests\Project_for_UnitTests\obj\Debug\netcoreapp3.1\Project_for_UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Yasenevsky\Desktop\Project_for_UnitTests\Project_for_UnitTests\obj\Debug\netcoreapp3.1\Project_for_UnitTests.dll
+C:\Users\Yasenevsky\Desktop\Project_for_UnitTests\Project_for_UnitTests\obj\Debug\netcoreapp3.1\Project_for_UnitTests.pdb
+C:\Users\Yasenevsky\Desktop\Project_for_UnitTests\Project_for_UnitTests\obj\Debug\netcoreapp3.1\Project_for_UnitTests.genruntimeconfig.cache
